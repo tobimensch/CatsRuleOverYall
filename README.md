@@ -1,5 +1,6 @@
 # CatsRuleOverYall
 
+```
 Cats.
 
 Cats rule.
@@ -19,3 +20,4 @@ Cats keep lots more dark than yall like.
 Cats they call yall meow with cool grin cold.
 
 Cats live shop life with wits like boat sunk deep.
+```
